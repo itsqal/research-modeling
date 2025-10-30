@@ -1,0 +1,409 @@
+fisherman_age,fisherman_experience_years,province,coast_name,role,boat_type,detected_disaster_type,life_threatening_disaster_count,natural_signs_used,how_often_used_signs,disaster_percentage,action_after_sign,how_long_used_signs_years
+23,3,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-3, Wn-4",3.5,80.0,Menyesuaikan Waktu Melaut,3
+40,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-1, Wn-4, Wn-9",18.0,75.0,"Wn-1 Berhati-hati
+Wn-4 Menyesuaikan Waktu Melaut
+Wn-9 Siaga di Tempat",10
+52,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-1, Wn-4, Wn-7, Wn-10",18.0,100.0,"Wn-1 Berhati-hati
+Wn-4 Menyesuaikan Waktu Melaut
+Wn-7 Tidak Melakukan Apa-apa
+Wn-10 Berhati-hati, Memperbaiki Kapal",25
+52,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,8,Wv-2,18.0,75.0,"Berhati-Hati, Menyesuaikan Waktu Melaut",22
+49,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-3, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-3 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",22
+49,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-1, Wn-4, Wn-10",18.0,100.0,"Wn-1 Berhati-hati
+Wn-4 Menyesuaikan Waktu Melaut
+Wn-10 Berhati-hati",10
+25,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,2,Wv-2,18.0,80.0,Menyesuaikan Waktu Melaut,1
+41,19,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,19
+41,19,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,7,"Cr-1, Cr-2",3.5,57.14,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",19
+27,5,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-1, Wn-3, Wn-8",18.0,100.0,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-3 Memperbaiki Kapal 
+Wn-8 Berhati-Hati",5
+27,5,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,6,Wv-1,3.0,75.0, Berhati-Hati,5
+36,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,10
+36,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,8,"Cr-1, Cr-2",4.0,50.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",10
+34,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-1, Wn-4, Wn-7",18.0,100.0,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-4 Memperbaiki Kapal 
+Wn-7 Berhati-Hati",8
+34,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,4,Td-1,22.0,43.48,Tidak Melakukan Apa-Apa,8
+39,14,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,8,Wv-1,3.0,100.0, Berhati-Hati,14
+39,14,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,80.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",14
+53,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-1, Wn-4, Wn-7",18.0,75.0,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-4 Memperbaiki Kapal 
+Wn-7 Berhati-Hati",26
+53,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,8,Wv-2,3.0,90.0, Menyesuaikan Waktu Melaut,26
+53,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,26
+53,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,6,Td-1,20.0,43.48,Tidak Melakukan Apa-Apa,26
+44,20,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,20
+44,20,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-3",22.0,50.0,"Td-1 Menyesuaikan Waktu
+Td-3 Berhati-Hati",20
+38,18,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-4, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-3 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",18
+38,18,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,2,Wth-1,3.5,80.0,Berhenti Beraktifitas Melaut,18
+39,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-1, Wn-6, Wn-10",18.0,100.0,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-6 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",7
+39,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,7
+47,23,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,8,Wv-1,3.5,100.0, Menyesuaikan Waktu Melaut,23
+47,23,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,5.0,61.54,Berhenti Beraktifitas Melaut,23
+29,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-2, Wn-5, Wn-8",18.0,100.0,"Wn-2 Menyesuaikan Waktu Melaut
+Wn-5 Memperbaiki Kapal 
+Wn-8 Berhati-Hati",9
+29,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-2,5.5,80.0,Menyesuaikan Alat,9
+30,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-3, Wn-8, Wn-9",18.0,100.0,"Wn-3 Menyesuaikan Waktu Melaut
+Wn-8 Memperbaiki Kapal 
+Wn-9 Berhati-Hati",12
+30,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,6,Wth-1,5.5,76.92,Berhenti Beraktifitas Melaut,12
+36,11,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-3",3.5,100.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",11
+36,11,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-2",22.0,50.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",11
+26,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,2,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,7
+34,14,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-1, Wn-4, Wn-9",18.0,100.0,"Wn-1 Berhati-hati
+Wn-4 Menyesuaikan Waktu Melaut
+Wn-9 Siaga di Tempat",14
+34,14,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,5.0,61.54,Berhenti Beraktifitas Melaut,14
+42,21,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-2, Wn-6, Wn-10",18.0,100.0,"Wn-2 Berhati-hati
+Wn-6 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",21
+42,21,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,73.33,Menyesuaikan Alat,21
+42,21,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,6,Wth-1,3.5,76.92,Berhenti Beraktifitas Melaut,21
+45,21,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,85.71,Menyesuaikan Alat,21
+45,21,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,75.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",21
+56,27,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-4, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-3 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",27
+56,27,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,7,"Wn-3, Wn-8, Wn-9",18.0,100.0,"Wn-3 Menyesuaikan Waktu Melaut
+Wn-8 Memperbaiki Kapal 
+Wn-9 Berhati-Hati",27
+56,27,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,Td-1,22.0,100.0,Tidak Melakukan Apa-Apa,27
+40,11,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-5, Ts-7",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-5 Lari Ke Tempat Tinggi
+Ts-7 Menjauh Dari Pantai",11
+40,11,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-4, Wn-7, Wn-8",5.5,50.0,"Wn-4 Menyesuaikan Waktu Melaut
+Wn-7 Memperbaiki Kapal 
+Wn-8 Berhati-Hati",11
+38,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,3.5,77.78,Menyesuaikan Alat,9
+38,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,100.0,Berhenti Beraktifitas Melaut,9
+47,14,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,6,Wv-1,5.5,87.5,Menyesuaikan Alat,14
+47,14,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,55.56,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",14
+29,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-3, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-3 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",9
+29,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-3",20.0,25.0,"Td-1 Menyesuaikan Waktu
+Td-3 Berhati-Hati",9
+30,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-3",3.5,75.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",10
+47,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-4, Wn-7, Wn-8",5.5,71.43,"Wn-4 Menyesuaikan Waktu Melaut
+Wn-7 Memperbaiki Kapal 
+Wn-8 Berhati-Hati",12
+47,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-2,5.5,85.71,Menyesuaikan Alat,12
+57,21,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.1 Tsunami,1,"Ts-3, Ts-4, Ts-6, Ts-7",30.0,100.0,"Ts-3 Berhati-hati
+Ts-4 Lari Ke Tempat Tinggi
+Ts-6 Lari Ke Tempat Tinggi
+Ts-7 Menjauh Dari Pantai",21
+57,21,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-2,5.5,42.86,Menyesuaikan Alat,21
+57,21,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,6,"Td-1, Td-3",22.0,42.86,"Td-1 Menyesuaikan Waktu
+Td-3 Berhati-Hati",21
+27,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,70.0,Menyesuaikan Alat,7
+27,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-3",3.5,83.33,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",7
+27,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-3",22.0,100.0,"Td-1 Menyesuaikan Waktu
+Td-3 Berhati-Hati",7
+37,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-2, Wn-5, Wn-8",18.0,66.67,"Wn-2 Menyesuaikan Waktu Melaut
+Wn-5 Memperbaiki Kapal 
+Wn-8 Berhati-Hati",12
+37,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,8,"Cr-1, Cr-2",4.0,90.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",12
+39,13,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-2,5.5,100.0,Menyesuaikan Alat,13
+39,13,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,6,Wth-1,5.5,100.0,Berhenti Beraktifitas Melaut,13
+38,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-8, Wn-11, Wn-14",5.5,100.0,"Wn-8 Menyesuaikan Waktu Melaut
+Wn-11 Memperbaiki Kapal 
+Wn-14 Berhati-Hati",8
+38,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,Td-1,22.0,50.0,Tidak Melakukan Apa-Apa,8
+45,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-4, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-4 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",15
+45,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-2",20.0,75.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",15
+44,21,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-12, Wn-13, Wn-16",18.0,93.33,"Wn-12 Menyesuaikan Waktu Melaut
+Wn-13 Memperbaiki Kapal 
+Wn-16 Berhati-Hati",21
+44,21,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,80.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",21
+33,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,73.33,Menyesuaikan Alat,12
+60,30,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.1 Tsunami,1,"Ts-3, Ts-4, Ts-5, Ts-6",30.0,100.0,"Ts-3 Berhati-hati
+Ts-4 Lari Ke Tempat Tinggi
+Ts-5 Lari Ke Tempat Tinggi
+Ts-6 Menjauh Dari Pantai",30
+60,30,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,6,Td-1,20.0,43.48,Tidak Melakukan Apa-Apa,30
+42,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,6,Wv-1,5.5,73.33,Menyesuaikan Alat,15
+42,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,15
+42,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,6,Td-1,20.0,66.67,Tidak Melakukan Apa-Apa,15
+37,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-4",3.5,88.89,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-4 Menjauh Dari Pantai   ",10
+37,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-2",22.0,50.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",10
+41,14,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-5, Wn-7, Wn-13",18.0,100.0,"Wn-5 Menyesuaikan Waktu Melaut
+Wn-7 Memperbaiki Kapal 
+Wn-13 Berhati-Hati",14
+41,14,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,14
+35,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-7, Wn-9, Wn-11",18.0,100.0,"Wn-7 Menyesuaikan Waktu Melaut
+Wn-9 Memperbaiki Kapal 
+Wn-11 Berhati-Hati",14
+35,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,73.33,Menyesuaikan Alat,8
+35,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,8
+33,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,5,Wth-2,3.0,80.0,Pasang Jangkar Untuk Bertahan,7
+33,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,Td-1,22.0,58.82,Menyesuaikan Waktu,7
+28,4,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,4,"Wn-2, Wn-5, Wn-10",18.0,100.0,"Wn-2 Menyesuaikan Waktu Melaut
+Wn-5 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",4
+28,4,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-2,5.5,80.0,Menyesuaikan Alat,4
+45,11,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-4",3.5,80.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-4 Menjauh Dari Pantai   ",11
+45,11,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,5,Td-1,18.0,66.67,Tidak Melakukan Apa-Apa,11
+47,15,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.4 Hujan Badai,6,Wth-1,5.0,80.0,Berhenti Beraktifitas Melaut,15
+47,15,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-2, Cr-3",3.5,100.0,"Cr-2 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",15
+47,15,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-2",22.0,66.67,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",15
+29,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-8, Wn-9, Wn-10",6.0,100.0,"Wn-8 Menyesuaikan Waktu Melaut
+Wn-9 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",8
+29,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,61.54,Berhenti Beraktifitas Melaut,8
+39,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,66.67,Menyesuaikan Alat,9
+39,9,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-2",20.0,66.67,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",9
+37,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,4,Wv-1,5.5,58.33,Menyesuaikan Alat,8
+37,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,"Td-1, Td-2",20.0,66.67,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",8
+35,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,80.0,Menyesuaikan waktu melaut,7
+35,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,53.85,Berhenti Beraktifitas Melaut,7
+45,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,6,"Wn-2, Wn-7, Wn-14",18.0,100.0,"Wn-2 Menyesuaikan Waktu Melaut
+Wn-7 Memperbaiki Kapal 
+Wn-14 Berhati-Hati",15
+45,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-2,5.5,76.92,Menyesuaikan Alat,15
+45,10,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-2",20.0,83.33,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",15
+44,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,8,Wv-1,4.0,100.0, Menyesuaikan Waktu Melaut,12
+44,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,6.0,75.0,Berhenti Beraktifitas Melaut,12
+44,12,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,7,"Cr-1, Cr-3",3.5,66.67,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",12
+47,14,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,2,Wv-2,18.0,75.0,Menyesuaikan Waktu Melaut,14
+47,14,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,4,"Td-1, Td-2",20.0,76.47,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",14
+28,6,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,7,"Cr-1, Cr-3",6.5,100.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",6
+28,6,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,6,Td-1,20.0,43.48,Tidak Melakukan Apa-Apa,6
+24,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-3, Wn-8, Wn-11",18.0,100.0,"Wn-3 Menyesuaikan Waktu Melaut
+Wn-8 Memperbaiki Kapal 
+Wn-11 Berhati-Hati",2
+24,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-2,4.5,80.0,Menyesuaikan Alat,2
+39,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-1,5.5,61.54,Tidak melakukan apa apa,10
+39,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,6,Wth-1,3.0,76.92,Berhenti Beraktifitas Melaut,10
+40,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,7,"Wn-1, Wn-4, Wn-7, Wn-10",20.0,50.0,"Wn-1 Berhati-hati
+Wn-4 Menyesuaikan Waktu Melaut
+Wn-7 Tidak Melakukan Apa-apa
+Wn-10 Berhati-hati, Memperbaiki Kapal",15
+40,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-2, Cr-3",3.5,60.0,"Cr-2 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",15
+55,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.1 Tsunami,1,"Ts-4, Ts-5, Ts-6, Ts-7",30.0,100.0,"Ts-4 Berhati-hati
+Ts-5 Lari Ke Tempat Tinggi
+Ts-6 Lari Ke Tempat Tinggi
+Ts-7 Menjauh Dari Pantai",26
+55,26,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,4,"Td-1, Td-2",20.0,87.5,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",26
+27,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,3.5,62.5,Berhenti Beraktifitas Melaut,7
+36,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,6,"Wn-13, Wn-14, Wn-16",18.0,100.0,"Wn-13 Menyesuaikan Waktu Melaut
+Wn-14 Memperbaiki Kapal 
+Wn-16 Berhati-Hati",13
+36,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,5.5,78.57,Menyesuaikan Alat,13
+40,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,40.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",15
+40,15,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,6,"Td-1, Td-2",18.0,38.89,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",15
+28,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,8,"Wn-12, Wn-15, Wn-16",26.0,100.0,"Wn-12 Menyesuaikan Waktu Melaut
+Wn-15 Memperbaiki Kapal 
+Wn-16 Berhati-Hati",7
+28,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,3.5,58.33,Berhenti Beraktifitas Melaut,7
+28,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,6,"Cr-1, Cr-2",4.0,60.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",7
+36,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,7,"Wn-5, Wn-14, Wn-17",22.0,100.0,"Wn-5 Menyesuaikan Waktu Melaut
+Wn-14 Memperbaiki Kapal 
+Wn-17 Berhati-Hati",10
+31,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,3.5,50.0,Berhenti Beraktifitas Melaut,8
+42,11,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,4,Wv-1,4.0,66.67,Menyesuaikan Alat,11
+42,11,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,8,"Cr-1, Cr-2",5.5,53.33,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",11
+47,17,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.2 Angin Kencang,7,"Wn-8, Wn-11, Wn-13, Wn-15",18.0,100.0,"Wn-8 Berhati-hati
+Wn-11 Menyesuaikan Waktu Melaut
+Wn-13 Tidak Melakukan Apa-apa
+Wn-15 Berhati-hati, Memperbaiki Kapal",17
+47,17,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,3.5,66.67,Berhenti Beraktifitas Melaut,17
+25,5,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,2,Cr-2,3.5,70.0,Cr-2 Tidak Melakukan Apa-Apa,5
+25,5,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,6,Td-2,3.5,100.0,Td-2 Berhati-Hati,5
+33,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,3,"Wv-1, Wv-2",16.0,100.0,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Berhati-hati",20
+33,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,1,Wth-1,18.0,50.0,Wth-1 Pasang Jangkar Untuk Bertahan,20
+33,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,3,Td-1,20.0,100.0,Td-1 Berhati-Hati,20
+29,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,16.0,86.67,Wth-1 Berhati-Hati,8
+47,29,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-3, Wn-11",4.5,100.0,"Wn-3 Memperbaiki Kapal 
+Wn-11 Berhati-Hati",29
+47,29,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,4,Wv-1,4.0,66.67,Wv-1 Menyesuaikan Alat,29
+28,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-8, Wn-9",3.5,25.0,"Wn-8 Menyesuaikan Waktu Melaut
+Wn-9 Memperbaiki Kapal ",8
+28,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,1,Wth-1,1.5,100.0,Wth-1 Berhenti Beraktifitas Melaut,8
+40,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,3,Wn-11,14.0,88.89,Wn-11 Berhati-Hati,25
+40,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,1,Wv-2,18.0,86.67,Wv-2 Menyesuaikan Alat,25
+40,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,1.5,62.5,"Wth-1 Berhenti Beraktifitas Melaut
+",25
+55,35,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,1,"Wv-1, Wv-2",4.5,80.0,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Waktu Melaut",2
+55,35,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,3.0,76.92,Wth-1 Berhenti Beraktifitas Melaut,10
+55,35,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,2,Cr-1,3.5,60.0,Cr-1 Tidak Melakukan Apa-Apa  ,15
+27,4,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,1,Cr-2,3.5,60.0,Cr-2 Berhati-Hati,15
+45,25,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,1,Cr-2,4.5,60.0,Cr-2 Menjauh Dari Pantai   ,25
+45,25,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,1,Td-2,1.5,100.0,Td-2 Berhati-Hati,25
+29,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-9, Wn-10",10.0,66.67,"Wn-9 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",13
+29,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,4.5,80.0,Wth-1 Berhenti Beraktifitas Melaut,13
+39,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,1,Wth-1,4.5,90.0,Wth-1 Berhenti Beraktifitas Melaut,20
+37,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,3,"Wv-1, Wv-2",5.5,85.71,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Alat",12
+45,26,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,4,"Wv-1, Wv-3",6.0,60.0,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Waktu Melaut",11
+47,30,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-3, Wn-8, Wn-11",26.0,100.0,"Wn-3 Menyesuaikan Waktu Melaut
+Wn-8 Berhati-hati
+Wn-11 Berhati-Hati",30
+47,30,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-1,26.0,100.0,Wv-1 Menyesuaikan Alat,30
+47,30,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,2,Wth-1,6.0,80.0,Wth-1 Berhenti Beraktifitas Melaut,30
+47,30,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,2,Td-1,12.0,50.0,Td-1 Berhati-Hati,30
+20,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.1 Tsunami,1,"Ts-1, Ts-2, Ts-4, Ts-5",30.0,100.0,"Ts-1 Berhati-hati
+Ts-2 Lari Ke Tempat Tinggi
+Ts-4 Lari Ke Tempat Tinggi
+Ts-5 Menjauh Dari Pantai",15
+20,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,5,Wv-1,3.5,73.33,Wv-1Menyesuaikan Alat,1
+20,2,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,1,"Td-1, Td-2",14.0,50.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",1
+39,19,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-1, Wn-6, Wn-10",18.0,92.86,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-6 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",19
+39,19,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,3,Td-1,18.0,100.0,Td-1 Tidak Melakukan Apa-Apa,19
+47,31,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,1,Wv-1,6.0,60.0,Wv-1 Menyesuaikan Alat,31
+47,31,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,Td-2,6.0,100.0,Td-2 Berhati-Hati,31
+26,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,3,Wn-14,18.0,40.0,Wn-14 Berhati-Hati,7
+26,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,6.0,100.0,Wth-1 Berhenti Beraktifitas Melaut,7
+40,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.2 Angin Kencang,3,"Wn-1, Wn-8, Wn-11",18.0,100.0,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-8 Memperbaiki Kapal 
+Wn-11 Berhati-Hati",25
+40,25,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.3 Gelombang Ekstrim,1,Wv-1,18.0,61.54,Wv-1 Tidak melakukan apa apa,25
+24,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,1,Cr-1,3.5,100.0,Cr-1 Tidak Melakukan Apa-Apa  ,10
+24,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,1,"Td-1, Td-2",14.0,100.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",10
+62,43,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.2 Angin Kencang,3,Wn-11,18.0,100.0,Wn-11 Berhati-Hati,43
+62,43,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,2,"Wv-1, Wv-2",18.0,90.0,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Waktu Melaut",43
+62,43,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,18.0,100.0,Wth-1 Berhenti Beraktifitas Melaut,43
+62,43,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,1,Cr-1,18.0,92.86,Cr-1 Tidak Melakukan Apa-Apa  ,43
+62,43,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,1,Td-1,18.0,100.0,Td-1 Berhati-Hati,43
+45,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.5 Arus Kencang,7,"Cr-1, Cr-2",3.5,100.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",20
+45,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,6,Td-1,20.0,66.67,Td-1 Tidak Melakukan Apa-Apa,20
+22,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,1,Wv-1,4.0,80.0, Wv-1 Menyesuaikan Waktu Melaut,7
+45,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,18.0,90.0,Wth-1 Berhenti Beraktifitas Melaut,26
+45,26,Aceh,Pantai Lampuuk,Tekong/Nahkoda,Perahu motor tempel,B.6 Air Pasang,2,Td-2,8.0,66.67,Td-2 Berhati-Hati,26
+36,18,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,"Wn-1, Wn-5, Wn-11",18.0,86.67,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-5 Memperbaiki Kapal 
+Wn-11 Berhati-Hati",18
+36,18,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,6.0,66.67,Wth-1 Berhenti Beraktifitas Melaut,18
+51,32,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-1, Wn-6, Wn-10",22.0,81.25,"Wn-1 Menyesuaikan Waktu Melaut
+Wn-6 Memperbaiki Kapal 
+Wn-10 Berhati-Hati",32
+51,32,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.3 Gelombang Ekstrim,3,Wv-1,26.0,100.0,Wv-1 Menyesuaikan Alat,32
+51,32,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.5 Arus Kencang,1,Cr-2,5.5,75.0,Cr-2 Menjauh Dari Pantai   ,32
+51,32,Aceh,Pantai Lampuuk,Juragan kapal,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-2",20.0,77.78,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",32
+28,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,2,"Wv-1, Wv-2",5.5,77.78,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Waktu Melaut",8
+28,8,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-1, Cr-2",3.5,66.67,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",8
+31,11,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,3,Wth-1,20.0,83.33,Wth-1 Berhenti Beraktifitas Melaut,11
+29,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-2, Wn-7, Wn-14",24.0,100.0,"Wn-2 Menyesuaikan Waktu Melaut
+Wn-7 Memperbaiki Kapal 
+Wn-14 Berhati-Hati",7
+29,7,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,7,"Cr-1, Cr-2",4.0,66.67,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",7
+24,5,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,5,"Wn-8, Wn-12, Wn-15",6.0,100.0,"Wn-8 Menyesuaikan Waktu Melaut
+Wn-12 Memperbaiki Kapal 
+Wn-15 Berhati-Hati",13
+36,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,2,Wth-1,10.0,66.67,Wth-1 Berhenti Beraktifitas Melaut,13
+36,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,5,"Cr-2, Cr-3",5.0,75.0,"Cr-2 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",13
+36,13,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,2,Td-2,2.0,75.0,Td-2 Berhati-Hati,13
+34,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,1,Wv-2,20.0,82.35,Wv-2 Menyesuaikan Alat,10
+34,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,4,Td-1,18.0,65.0,Tidak Melakukan Apa-Apa,10
+47,17,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,6,"Wn-9, Wn-10, Wn-14",6.0,100.0,"Wn-9 Menyesuaikan Waktu Melaut
+Wn-10 Memperbaiki Kapal 
+Wn-14 Berhati-Hati",17
+47,17,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,4,Wth-1,5.5,77.78,Berhenti Beraktifitas Melaut,17
+42,15,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.3 Gelombang Ekstrim,4,"Wv-1, Wv-2",4.5,75.0,"Wv-1 Menyesuaikan Waktu Melaut
+Wv-2 Menyesuaikan Alat",15
+42,15,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,5,"Cr-1, Cr-2",6.0,100.0,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-2 Menjauh Dari Pantai   ",15
+29,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.2 Angin Kencang,2,Wn-13,18.0,50.0,Wn-13 Berhati-Hati,10
+29,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,5,"Cr-1, Cr-3",3.5,62.5,"Cr-1 Tidak Melakukan Apa-Apa
+Cr-3 Menjauh Dari Pantai   ",10
+29,10,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,7,Td-1,24.0,57.69,Tidak Melakukan Apa-Apa,10
+37,17,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.5 Arus Kencang,4,"Cr-2, Cr-4",3.5,75.0,"Cr-2 Tidak Melakukan Apa-Apa
+Cr-4 Menjauh Dari Pantai   ",17
+46,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.4 Hujan Badai,5,Wth-1,20.0,75.0,Wth-1 Berhenti Beraktifitas Melaut,20
+46,20,Aceh,Pantai Lampuuk,Anak Buah Kapal (ABK) ,Perahu motor tempel,B.6 Air Pasang,3,"Td-1, Td-2",16.0,100.0,"Td-1 Menyesuaikan Waktu
+Td-2 Berhati-Hati",20
+28,14,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.2 Angin Kencang,5,Wn-1,1.0,33.33,Berhati-hati (melihat respon pihak lain),15
+28,14,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.2 Angin Kencang,5,Wn-4,1.0,66.67,Menyesuaikan waktu melaut,15
+28,14,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.3 Gelombang Ekstrim,10,Wn-2,1.0,33.33,Menyesuaikan alat tangkap ikan ,15
+28,14,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.5 Arus Kencang,15,Cr-3,1.0,66.67,Berhati-hati (melihat respon pihak lain),15
+22,8,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Perahu jukung,B.2 Angin Kencang,5,Wn-4,4.0,100.0,Berhati-hati (melihat respon pihak lain),7
+60,25,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jukung,B.2 Angin Kencang,4,Wn-4,4.0,50.0,Berhati-hati (melihat respon pihak lain),10
+46,20,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-4,4.0,50.0,Berhati-hati (melihat respon pihak lain),20
+46,20,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,2,Wn-7,4.0,33.33,Berhati-hati (melihat respon pihak lain),20
+46,20,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.3 Gelombang Ekstrim,2,Wn-2,8.0,40.0,Berhati-hati (melihat respon pihak lain),20
+40,21,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-5,2.0,50.0,Berhati-hati (melihat respon pihak lain),10
+40,21,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-4,4.0,50.0,Berhati-hati (melihat respon pihak lain),15
+37,20,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,6,Wn-4,4.0,40.0,Berhati-hati (melihat respon pihak lain),18
+37,20,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.3 Gelombang Ekstrim,10,Wv-2,4.0,80.0,Berhati-hati (melihat respon pihak lain),18
+38,20,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,"Wn-4, Wn-7",4.0,66.67,"Wn-4: Tidak melakukan apa-apa
+Wn-7: Berhati-hati (melihat respon pihak lain)",15
+38,20,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.3 Gelombang Ekstrim,4,Wn-2,4.0,40.0,Berhati-hati (melihat respon pihak lain),15
+48,20,D.I. Yogyakarta,Pantai Depok,Juragan kapal,Lainnya,B.2 Angin Kencang,5,Wn-4,4.0,50.0,Berhati-hati (melihat respon pihak lain),20
+48,20,D.I. Yogyakarta,Pantai Depok,Juragan kapal,Lainnya,B.2 Angin Kencang,5,Wn-7,4.0,50.0,Berhati-hati (melihat respon pihak lain),20
+48,20,D.I. Yogyakarta,Pantai Depok,Juragan kapal,Lainnya,B.2 Angin Kencang,5,Wn-9,4.0,75.0,Berhati-hati (melihat respon pihak lain),20
+28,2,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.3 Gelombang Ekstrim,2,Wv-1,4.0,100.0,Berhati-hati (melihat respon pihak lain),2
+28,2,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Perahu jaring angkat,B.3 Gelombang Ekstrim,2,Wv-2,4.0,50.0,Berhati-hati (melihat respon pihak lain),2
+45,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-4,3.0,60.0,Berhati-hati (melihat respon pihak lain),6
+45,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-7,3.0,60.0,Berhati-hati (melihat respon pihak lain),6
+45,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-9,3.0,60.0,Berhati-hati (melihat respon pihak lain),6
+46,20,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-4,5.0,50.0,Berhati-hati (melihat respon pihak lain),15
+46,20,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-7,5.0,50.0,Berhati-hati (melihat respon pihak lain),15
+46,20,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.3 Gelombang Ekstrim,2,Wv-2,8.0,100.0,Berhati-hati (melihat respon pihak lain),15
+48,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-4,4.0,50.0,Berhati-hati (melihat respon pihak lain),8
+48,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,3,Wn-7,4.0,50.0,Berhati-hati (melihat respon pihak lain),8
+38,24,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-4,3.0,50.0,Berhati-hati (melihat respon pihak lain),14
+38,24,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.2 Angin Kencang,5,Wn-8,3.0,50.0,Berhati-hati (melihat respon pihak lain),14
+38,24,D.I. Yogyakarta,Pantai Depok,Tekong/Nahkoda,Lainnya,B.3 Gelombang Ekstrim,3,Wv-1,4.0,33.33,Berhati-hati (melihat respon pihak lain),14
+43,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,4,Wn-4,5.0,66.67,Berhati-hati (melihat respon pihak lain),6
+43,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,4,Wn-7,5.0,75.0,Berhati-hati (melihat respon pihak lain),6
+43,10,D.I. Yogyakarta,Pantai Depok,Anak Buah Kapal (ABK) ,Lainnya,B.2 Angin Kencang,4,Wn-8,5.0,50.0,Berhati-hati (melihat respon pihak lain),6
